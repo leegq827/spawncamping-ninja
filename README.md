@@ -1,0 +1,3 @@
+spawncamping-ninja
+==================
+Hello
